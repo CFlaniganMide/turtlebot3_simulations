@@ -39,7 +39,7 @@ bool Turtlebot3Fake::init()
 
   std::string robot_model = nh_.param<std::string>("tb3_model", "");
 
-  if (!robot_model.compare("burger"))
+  if (!robot_model.compare("burger") || !robot_model.compare("burger_vision"))
   {
     wheel_seperation_ = 0.160;
     turning_radius_   = 0.080;
