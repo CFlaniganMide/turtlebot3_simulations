@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../turtlebot3/.idea/turtlebot3.iml" filepath="$PROJECT_DIR$/../turtlebot3/.idea/turtlebot3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/turtlebot3_simulations.iml" filepath="$PROJECT_DIR$/.idea/turtlebot3_simulations.iml" />
     </modules>
   </component>
